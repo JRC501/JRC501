@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Reyes
 
-<!--
-**JRC501/JRC501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Apasionado por la tecnología
+📊 Interés en análisis de datos
+🚀 Aprendizaje continuo
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi trayectoria ha estado enfocada en el crecimiento dentro del área tecnológica, desarrollando habilidades en soporte técnico, resolución de problemas y mejora de procesos mediante herramientas digitales. Con el tiempo, estas experiencias despertaron mi interés por comprender cómo la tecnología y los datos pueden optimizar la toma de decisiones.
+
+Actualmente me encuentro en formación universitaria como **Ingeniero en Computación**, fortaleciendo conocimientos en tecnologías de la información y explorando áreas como el **análisis de datos, automatización y desarrollo de soluciones tecnológicas**.
+
+## Lo que encontrarás en este perfil
+
+📂 Proyectos académicos
+🧪 Prácticas y ejercicios de aprendizaje
+⚙️ Experimentos con herramientas tecnológicas
+📈 Desarrollo de habilidades en tecnología y datos
+
+## En constante aprendizaje
+
+Me caracterizo por la curiosidad, la adaptabilidad y el compromiso con la mejora continua, buscando siempre aplicar la tecnología como una herramienta para crear soluciones eficientes y seguir creciendo dentro del ámbito profesional.
